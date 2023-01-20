@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+main(){
+float pounds=0.45;
+float input;
+float kilogram;
+
+cout<<"Enter no of pounds:";
+cin >>input;
+total=input*pounds;
+cout<<"Total kilograms = "<<total;
+}

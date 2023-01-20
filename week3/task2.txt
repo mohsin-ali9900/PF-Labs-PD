@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+main(){
+int dollar=200;
+int input;
+int total;
+
+cout<<"Enter no of dollars:";
+cin >>input;
+total=input*dollar;
+cout<<"Total Rupees = "<<total;
+}
